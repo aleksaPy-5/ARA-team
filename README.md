@@ -1,2 +1,2 @@
-# AKA-team
+# ARA-team
 University information system

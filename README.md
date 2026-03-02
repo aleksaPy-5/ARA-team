@@ -1,2 +1,2 @@
-# AKA-tema
+# AKA-team
 University information system
